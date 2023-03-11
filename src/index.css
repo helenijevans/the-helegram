@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "unifrak";
+  src: local("unifrak"),
+    url(./fonts/unifrakturcook/unifrakturcook.ttf) format("truetype");
+}
